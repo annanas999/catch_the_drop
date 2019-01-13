@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GeekBrains.Lesson_6.Catch_the_drop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeekBrains_Lesson_6_Catch_the_drop_jar</output-path>
+    <root id="archive" name="GeekBrains.Lesson_6.Catch_the_drop.jar">
+      <element id="module-output" name="GeekBrains.Lesson_6.Catch_the_drop" />
+    </root>
+  </artifact>
+</component>
